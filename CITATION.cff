@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite the version of the laboratory artifact used in your work."
+type: software
+title: "RPKI RTR Authorization Consistency Laboratory"
+version: 1.0.0
+authors:
+  - family-names: "Mare"
+    given-names: "Akeel"
+  - family-names: "Al-Raweshidy"
+    given-names: "Hamed"
